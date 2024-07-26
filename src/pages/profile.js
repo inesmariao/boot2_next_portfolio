@@ -2,15 +2,15 @@
 export const skills = [
   {
     skill: "JavaScript",
-    percentage: 100,
+    percentage: 90,
   },
   {
     skill: "TypeScript",
-    percentage: 100,
+    percentage: 80,
   },
   {
     skill: "Node.js",
-    percentage: 100,
+    percentage: 98,
   },
   {
     skill: "Next.js",
@@ -18,7 +18,7 @@ export const skills = [
   },
   {
     skill: "MongoDB",
-    percentage: 100,
+    percentage: 60,
   },
   {
     skill: "React.js",
@@ -34,21 +34,21 @@ export const experiences = [
   {
     title: "Software developer at Microsoft",
     description:
-      "Lorem, ipsum dolor sit amet consectetur adipisicing elit. Sint excepturi ea explicabo. Illum suscipit illo, porro quisquam voluptatem officiis fugiat vel animi aliquam inventore rem. Quo laudantium temporibus cupiditate. Aut?",
+      "Microsoft.com",
     from: 2000,
     to: 2005,
   },
   {
     title: "Software developer at Google",
     description:
-      "Lorem, ipsum dolor sit amet consectetur adipisicing elit. Sint excepturi ea explicabo. Illum suscipit illo, porro quisquam voluptatem officiis fugiat vel animi aliquam inventore rem. Quo laudantium temporibus cupiditate. Aut?",
+      "Google.com",
     from: 2005,
     to: 2007,
   },
   {
     title: "Software developer at SpaceX",
     description:
-      "Lorem, ipsum dolor sit amet consectetur adipisicing elit. Sint excepturi ea explicabo. Illum suscipit illo, porro quisquam voluptatem officiis fugiat vel animi aliquam inventore rem. Quo laudantium temporibus cupiditate. Aut?",
+      "SpaceX.com",
     from: 2010,
   },
 ];
