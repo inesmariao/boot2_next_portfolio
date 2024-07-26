@@ -1,8 +1,11 @@
 import React from 'react'
+import Layout from '@/components/Layout';
 
 const github = () => {
   return (
-    <div>github</div>
+    <Layout>
+      github
+    </Layout>
   )
 }
 
