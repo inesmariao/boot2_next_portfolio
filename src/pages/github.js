@@ -1,5 +1,5 @@
 import Layout from "../components/Layout";
-//import Error from "./_error";
+import Error from "./_error";
 import Link from "next/link";
 
 const Github = ({ user, statusCode }) => {
