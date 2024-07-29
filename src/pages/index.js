@@ -6,7 +6,7 @@ import { skills, experiences, projects } from '@/pages/profile';
 
 export default function Home() {
   return (
-    <Layout>
+    <Layout footer={true}>
       {/* Header Card */}
       <header className="row">
         <div className="col-md-12">
